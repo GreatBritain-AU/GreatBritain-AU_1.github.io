@@ -1,0 +1,87 @@
+.search{
+    border: none;
+    border-bottom: 2px solid #324950;
+    width: 380px ;
+    background: none;
+}
+
+.col-md-5 .s-icon{
+    position: absolute;
+    border: none;
+    border-bottom: 2px solid #324950;
+    background: none;
+}
+
+.baner{
+    position: absolute;
+    width: 1920px;
+    height: 850px;
+    z-index: -1;
+}
+
+lable {
+    display: none;
+}
+
+ul.navpanel{
+    list-style: none;
+    display: flex;
+}
+
+nav ul li a{
+    text-decoration: none;
+    transition: 0.3s;
+    color:black;
+    font-family: 'Heebo', sans-serif; 
+}
+
+a:hover{
+    color: #57984C;
+    transition: 0.3s;
+}
+
+
+nav ul{
+    display: flex;
+    gap: 15px;
+
+}
+
+nav{
+    margin-top: 50px;
+    position: relative;
+    right: 175px;
+    font-size: 18px;
+}
+
+.burger {
+    display: none;
+}
+
+.group29{
+    position: relative;
+    top: 160px;
+    left: 670px;
+}
+
+.group29 h1{
+    font-weight: 700;
+}
+
+.r-m{
+    border: none;
+    background-color: #57984C;
+    color: #FFFFFF;
+    width: 160px;
+    height: 55px;
+    position: relative;
+    top:55px;
+    left: 270px;
+    font-family: 'Heebo', sans-serif;
+    transition: 0.3s; 
+}
+
+.r-m:hover{
+    background-color: #324950;
+    color: #57984C;
+}

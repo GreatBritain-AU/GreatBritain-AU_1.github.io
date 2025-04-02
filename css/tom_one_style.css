@@ -1,0 +1,247 @@
+body{
+    background-color: #faf9de;
+    font-family:'Roboto Slab', sans-serif;
+    
+}
+
+.header{
+    background-color: #FFFFFF;
+}
+
+.tag_809{
+    background-position: 260.88px 0px;
+    background-image: url("../images/Un_pomat.png");
+    background-repeat: no-repeat;
+    background-color: #faf9de;
+    
+}
+
+.ret_button a{
+    font-size: 14px;
+    color:#57984C;
+    text-decoration: none;
+    transition: 0.3s;
+    margin-left: 26.5%;
+}
+
+.ret_button a:hover{
+    color: #3D6337;
+}
+
+.zagal .und_zagal h1{
+    font-size: 54px;
+    color: #57984C;
+}
+
+.zagal h1{
+    font-size: 54px;
+    color: #324950;
+}
+
+.zagal{
+    margin-left: 45.5%;
+    margin-top: 3%;
+}
+
+.dots{
+    margin-top: 4%;
+    margin-left: 45.5%;
+}
+
+.im_pom_pgf{
+    margin-top: 2%;
+}
+
+.pechat{
+    margin-top: 4%;
+    margin-left: 42.5%;
+}
+
+.elem_pechat{
+    display: flex;
+    list-style: none;
+}
+
+.elem_img{
+    width: 80px;
+    height: 80px;
+    margin-top: 0.5%;
+}
+
+.elem_img img{
+    width: 80px;
+    height: 80px;
+}
+
+.elem_text{
+    color: #464daf;
+    font-size: 30px;
+    margin-left: 2.5%;
+}
+
+.l_pareh{
+    margin-top: 3%;
+    margin-left: 45.5%;
+}
+
+.chara h2{
+    font-size: 20px;
+    color: #57984C;
+}
+
+.ch_list{
+    margin-top: 1%;
+    margin-left: -6.5%;
+}
+
+.elem_ch{
+    font-size: 17px;
+    color: #324950;
+    list-style: none;
+}
+
+.plant h2{
+    padding-top: 4%;
+    font-size: 20px;
+    color: #57984C;
+}
+
+.pl_list{
+    margin-top: 1%;
+    margin-left: -3%;
+}
+
+.elem_pl{
+    font-size: 17px; 
+}
+
+.elem_pl li{
+    padding-top: 1%;
+}
+
+.strong, .v_high, .early{
+    color: #57984C;
+}
+
+.pl_li{
+    color: #324950;
+}
+
+.fruit h2{
+    padding-top: 4%;
+    font-size: 20px;
+    color: #57984C;
+}
+
+.fr_list{
+    margin-top: 1%;
+    margin-left: -3%;
+}
+
+.elem_fr{
+    font-size: 17px;
+}
+
+.elem_fr li{
+    padding-top: 1%;
+}
+
+.l_shelf, .n_shiny, .aver{
+    color: #57984C;
+}
+
+.fr_li{
+    color: #324950;
+}
+
+.elem_pd_b{
+    padding-top: 4%;
+    margin-left: -5%;
+    display: flex;
+    list-style: none;
+}
+
+.elem_img_pd svg{
+    width: 35px;
+    height: 35px;
+}
+
+.im_pom_pgf img{
+    width: 550px;
+    height: 550px;
+}
+
+.elem_text_pd{
+   
+    width: 100px;
+    margin-top: 0.5%;
+    margin-left: 7%;
+    font-size: 17px;
+    color: #57984C;
+}
+
+.pdf_button{
+    margin-top: 4%;
+    margin-left: 41%;
+    
+}
+
+.pdf_button button{
+    height: 55px;
+    width: 230px;
+    transition: 0.3s;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border: 2px solid #57984C
+}
+
+.pdf_button button:hover{
+    background-color: #96e68a;
+}
+
+.cycle h2{
+    padding-top: 8%;
+    font-size: 20px;
+    color: #57984C;
+}
+
+.cl_list{
+    margin-top: 1%;
+    margin-left: -3%;
+}
+
+.elem_cl{
+    font-size: 17px;
+}
+
+.elem_cl li{
+    padding-top: 1%;
+}
+
+.sp, .fall, .wint{
+    color: #57984C;
+}
+
+.cl_li{
+    color: #324950;
+}
+
+.color h2{
+    margin-top: 4%;
+    font-size: 20px;
+    color: #57984C;
+}
+
+.col_list{
+    margin-top: 1%;
+    margin-left: -6.5%;
+}
+
+.elem_col{
+    padding-left: 6%;
+    font-size: 17px;
+    color: #324950;
+    list-style: none;
+}
