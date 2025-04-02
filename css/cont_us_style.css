@@ -1,0 +1,236 @@
+body{
+    font-family:'Roboto Slab', sans-serif;
+    color: #324950;
+    background-color: #F7F7F7;
+}
+
+.infom_mes{
+    background-color: #F7F7F7;
+}
+
+.top_text{
+    margin-top: 7%;
+    margin-left: 65%;
+}
+
+.dots img{
+    margin-top: 14%;
+}
+
+.input_fl1{
+    font-size: 17px;
+    color: #324950;
+}
+
+.name_f{
+    margin-top: 7%;
+    margin-left: 65%;
+}
+
+.name_inp input{
+    border: 1px solid #DADADA;
+    height: 55px;
+    width: 350px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+
+.com_name_f{
+    margin-top: 4%;
+    margin-left: 65%;
+}
+
+._com_name_inp input{
+    border: 1px solid #DADADA;
+    height: 55px;
+    width: 350px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+
+.pos_f{
+    margin-top: 4%;
+    margin-left: 65%;
+}
+
+.position_inp input{
+    border: 1px solid #DADADA;
+    height: 55px;
+    width: 350px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+
+.city_f{
+    margin-top: 4%;
+    margin-left: 65%;
+}
+
+.city_inp input{
+    border: 1px solid #DADADA;
+    height: 55px;
+    width: 350px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+
+.count_f{
+    margin-top: 4%;
+    margin-left: 65%;
+}
+
+.count_inp input{
+    border: 1px solid #DADADA;
+    height: 55px;
+    width: 350px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+
+.phone_f{
+    margin-top: 4%;
+    margin-left: 65%;
+}
+
+.phone_inp input{
+    border: 1px solid #DADADA;
+    height: 55px;
+    width: 350px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+
+.email_f{
+    margin-top: 4%;
+    margin-left: 65%;
+}
+
+.email_inp input{
+    border: 1px solid #DADADA;
+    height: 55px;
+    width: 350px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+
+.you_are_f{
+    margin-top: 19.2%;
+    margin-left: 15%;
+}
+
+.you_are_inp select{
+    border: 1px solid #DADADA;
+    height: 55px;
+    width: 635px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+
+.other_title_f{
+    margin-top: 3.1%;
+    margin-left: 15%;
+}
+
+.other_title_inp input{
+    border: 1px solid #DADADA;
+    height: 55px;
+    width: 635px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+
+.interest_f{
+    margin-top: 3.1%;
+    margin-left: 15%;
+}
+
+.interest_inp input{
+    border: 1px solid #DADADA;
+    height: 390.75px;
+    width: 633.9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+
+.send_field{
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.parts_list{
+    display: flex;
+    list-style: none;
+    margin-left: -5.5%;
+}
+
+.img_whew img{
+    margin-top: 13%;
+}
+
+.inp_s_f input{
+    border: 1px solid #DADADA;
+    height: 55px;
+    width: 255px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+
+.snmd_button{
+    margin-left: 4%;
+}
+
+.smb_b{
+    height: 55px;
+    width: 255px;
+    transition: 0.3s;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border: none;
+    background-color: #57984C;
+    color: #FFFFFF;
+}
+
+.smb_b:hover{
+    background-color: #8ecf82;
+    color: #182916;
+}
+
+.about_us{
+    margin-top: 5%;
+    margin-left: 45%;
+    text-align: center;
+}
+
+.up_text{
+    color: #57984C;
+    font-size: 20px;
+}
+
+.text_adr a{
+    color:#57984C;
+    text-decoration: none;
+}
